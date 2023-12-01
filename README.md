@@ -1,2 +1,2 @@
 # test-lib
-check the tarball and public Registry 
+Check the tarball and public Registry 
