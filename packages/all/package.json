@@ -1,0 +1,11 @@
+{
+  "name": "exa-core-ui",
+  "version": "1.0.7",
+  "files": [
+    "build/"
+  ],
+  "scripts": {
+    "build:pack": "mkdir -p ./build && cp -R ../../build/* ./build && npm pack --pack-destination \"../all\" && rm -R ./build/*"
+  },
+  "dependencies": {}
+}
